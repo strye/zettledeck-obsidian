@@ -44,7 +44,7 @@ Call this skill when the user requests vault operations:
 - Obsidian 1.12.4 or later (installer updates at obsidian.md/download)
 - Obsidian must be **running in the background**
 - CLI registered: Obsidian → Settings → General → Command line interface → Register CLI
-- Vault path configured in `.zettledeck/core/config.json` (`vaultPath`)
+- Vault path configured in `.zettledeck/zettledeck-obsidian/config.json` (`vaultPath`)
 
 **Tools needed**: Bash, Read, Write, Glob
 
